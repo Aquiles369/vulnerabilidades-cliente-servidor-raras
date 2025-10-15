@@ -12,12 +12,11 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjZzdmcjBsOWt5d3o4MmJsM3FsMHNuNzAyODFzMnU0emM5cjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnB8S9TNiUGW3eI4AT/giphy.gif" width = 75px>  </picture> Analisis de archivos .js
+ ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjZzdmcjBsOWt5d3o4MmJsM3FsMHNuNzAyODFzMnU0emM5cjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnB8S9TNiUGW3eI4AT/giphy.gif" width = 75px>  </picture> Vulnerabilidades web
 
 <br>
 
- **Análisis de archivos .js. Proceso enfocado en revisar, mapear y comprender el código JavaScript de una aplicación para identificar vectores de ataque potenciales. Incluye la detección de funciones sensibles, endpoints ocultos, parámetros interesantes, lógica de validación, fugas de datos y posibles superficies para XSS, DOM Clobbering, prototipo pollution o bypass de seguridad.<br><br>
-Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante la fase de recon y explotación, revelando rutas y comportamientos que no están expuestos directamente en la interfaz de la aplicación,<a href="https://www.youtube.com/watch?v=_xKHM4iSx6Y" target="_blank" rel="noopener">demo en mi canal de Youtube</a>.** 
+ **Con más de 60 vulnerabilidades reales divididas en cliente, servidor, sin categorias.Cada vulnerabilidad tiene su propio enlace directo a su repositorio, donde encontrarás informes completos, ejemplos de explotación, material de referencia y herramientas específicas, <a href="https://www.youtube.com/watch?v=_xKHM4iSx6Y" target="_blank" rel="noopener">📺 Demo disponible en mi canal de YouTube</a>..** 
 <br><br> 
 
 <p align="center">
@@ -31,28 +30,17 @@ Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante
 <br><br>
 
 ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR1ZTRlZnNmY296dTlkdjc4ZmZ3cjE2NmI0dnh2Zmw5anRjcHJzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W2WBS4R2thlXub0vI3/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
-**Hoy en día, un cazador de bugs tiene que saltar entre decenas de fuentes, PDFs, artículos, scripts, guías y estándares para reunir todo lo necesario. Esa fragmentación ralentiza el proceso, genera huecos metodológicos y obliga a improvisar.<br><br>
-Este repositorio elimina ese problema concentrando todo el conocimiento crítico del ciclo de caza en un solo lugar estructurado, desde el recon inicial hasta el envío de informes y la evasión avanzada de WAF.<br>
-✔️ Elimina la pérdida de tiempo buscando información.<br>
-✔️ Unifica metodologías, estándares y herramientas en una sola interfaz mental.<br>
-✔️ Permite escalar la calidad y velocidad del hunting.<br>
-✔️ Convierte el proceso en algo repetible, optimizable y documentado.</a>.**
+**El mayor obstáculo no es la falta de bugs… es el caos: recursos dispersos, técnicas separadas, documentación fragmentada y rutas que se pierden.<br>
+✔️ Centraliza tanto las vulnerabilidades del lado del cliente, servidor, sin categorias en solo repositorio.<br><br>
+✔️ Cada vulnerabilidad tiene su propio repositorio donde te podras encontra informes relacionado y ademas de recursos.<br><br>
+✔️ Acelera la validación, explotación y escalado del impacto.<br><br>
+✔️ Convierte el proceso en algo repetible, optimizable y bien documentado.**
 <br><br>
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtcWZzczNtanl3cHo0eDJ6YXFiMGNnemt3N2psbzE3cmxtdmVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vuRc3owmolGzQYlhUR/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• 📚 Metodologías (+25): recopila los enfoques de NahamSec, Jason Haddix y HackTricks, dándote una base táctica sólida para cada etapa del bug bounty.<br><br>
-🌐 Dominios y entornos: incluye recursos para APIs, CMS, documentación, LLMs y más, cubriendo todas las superficies de ataque posibles.<br><br>
-📏 Estándares: referencias clave como OWASP, OSSTMM y MITRE ATT&CK para asegurar que tu trabajo esté alineado con marcos reconocidos internacionalmente.<br><br>
-🧠 IA y prompt engineering: secciones dedicadas a usar IA para automatizar tareas, generar payloads o crear prompts inteligentes.<br><br>
-🔍 Recon avanzado: técnicas para romper límites de scope, analizar infraestructura cloud, identificar objetivos ocultos y mapear superficies reales de ataque.<br><br>
-📝 Plantillas e informes: formatos reutilizables para reportar vulnerabilidades con calidad profesional y estructuras adaptadas a plataformas como HackerOne o Bugcrowd<br><br>
-🛡️ Bypass y evasión: una de las joyas del arsenal — más de 500 técnicas, ejemplos y estrategias reales para evadir WAF, romper CSP y explotar desincronizaciones HTTP<br><br>
-🧪 Sitios y herramientas: generadores, laboratorios, herramientas online y colecciones útiles para practicar y probar exploits.<br><br>
-📊 Gestión: guías para evaluar severidades con CVSSv3, hacer seguimiento de objetivos y documentar cambios.<br><br>
-📚 Fuentes de investigación: canales, repositorios, sitios de práctica, artículos, informes y colecciones de 0-days.<br><br>
-💡 Tips y consejos: más de 300 tips prácticos para mejorar tu mentalidad ofensiva y tu eficiencia diaria.<br><br>
-📦 Recursos extra: extensiones, plugins, libros y utilidades que refuerzan tu entorno de trabajo.<br><br>
-💥 En resumen: transforma un entorno caótico en un arsenal ordenado, escalable y listo para usar, optimizando cada paso de la caza.</a>.** 
+**Estructura total: reúne más de 60 vulnerabilidades de cliente, servidor, sin categorias.<br><br>
+• Velocidad real: reduce el tiempo de análisis de días a horas, permitiendo trabajar más de 30 vulnerabilidades por día, o más de 60 con integración de IA.<br><br>
+• Escalabilidad real: crece constantemente con nuevas técnicas, bypasses y enlaces sin romper su estructura base, convirtiéndose en tu centro ofensivo definitivo.** 
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
@@ -61,13 +49,8 @@ Este repositorio elimina ese problema concentrando todo el conocimiento crítico
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtYzhjYjZld2FxeGx6NTlzYjMwMTV1YmE1dWV5ZnA5bGEwMnl6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSev84x5uh4eUbKa39/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-🏹 Bug Bounty Arsenal — Tu campo de batalla completo<br>
-
-Este repositorio reúne y organiza todo lo que un cazador de vulnerabilidades necesita para operar al más alto nivel: metodologías, estándares, técnicas de recon, bypasses, guías IA, plantillas de informes, recursos ofensivos, sitios de práctica, tips y colecciones continuas de investigación.<br>
-
-🌐 Desde la fase de descubrimiento hasta la explotación avanzada y el envío de informes, todo está estructurado en un solo lugar para eliminar la dispersión de información y maximizar tu eficacia.<br>
-
-⚔️ Con este arsenal, transformás el caos en estrategia: dejás de buscar recursos por separado y empezás a operar como un verdadero profesional del bug bounty.<br><br>
+— Tu arsenal de vulnerabilidades web.
+Más de 60 vulnerabilidades de cliente, servidor y sin categorias, cada una enlazada a su repositorio especializado con informes, ejemplos y material ofensivo.<br>
 
 
 
