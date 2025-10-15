@@ -12,7 +12,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjZzdmcjBsOWt5d3o4MmJsM3FsMHNuNzAyODFzMnU0emM5cjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnB8S9TNiUGW3eI4AT/giphy.gif" width = 75px>  </picture> Vulnerabilidades web
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVwN3lucmdvbXl2MXk3aXg4Zmh3cjkxcHc5YjUyczZtcGZoNzJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0ZAOvwNfhtXacwNxe8/giphy.gif" width = 75px>  </picture> Vulnerabilidades web
 
 <br>
 
@@ -29,7 +29,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR1ZTRlZnNmY296dTlkdjc4ZmZ3cjE2NmI0dnh2Zmw5anRjcHJzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W2WBS4R2thlXub0vI3/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG03b3YyN3d6b3ZqbXg4ajl1aTNwMnE1a3hlbmNhcWh2ZXFhZ3ZrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0SBdltqerMOam39o9G/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **El mayor obstáculo no es la falta de bugs… es el caos: recursos dispersos, técnicas separadas, documentación fragmentada y rutas que se pierden.<br>
 ✔️ Centraliza tanto las vulnerabilidades del lado del cliente, servidor, sin categorias en solo repositorio.<br><br>
 ✔️ Cada vulnerabilidad tiene su propio repositorio donde te podras encontra informes relacionado y ademas de recursos.<br><br>
@@ -37,7 +37,7 @@
 ✔️ Convierte el proceso en algo repetible, optimizable y bien documentado.**
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtcWZzczNtanl3cHo0eDJ6YXFiMGNnemt3N2psbzE3cmxtdmVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vuRc3owmolGzQYlhUR/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhsaHN5aTA3YjI0cHJsaTVmNXkwNzY1eGFkcWZxeXcycmtwdGkzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0HLtzAOIpXc1L0tq1e/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **Estructura total: reúne más de 60 vulnerabilidades de cliente, servidor, sin categorias.<br><br>
 • Velocidad real: reduce el tiempo de análisis de días a horas, permitiendo trabajar más de 30 vulnerabilidades por día, o más de 60 con integración de IA.<br><br>
 • Escalabilidad real: crece constantemente con nuevas técnicas, bypasses y enlaces sin romper su estructura base, convirtiéndose en tu centro ofensivo definitivo.** 
@@ -46,7 +46,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtYzhjYjZld2FxeGx6NTlzYjMwMTV1YmE1dWV5ZnA5bGEwMnl6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSev84x5uh4eUbKa39/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lkMmtqd25xd3Btdmw2NDhpOTdhazdqbjcxaDBydTZ2azJ6cHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yYrIll6b1lwJxiQPBS/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
 — Tu arsenal de vulnerabilidades web.
@@ -57,7 +57,7 @@ Más de 60 vulnerabilidades de cliente, servidor y sin categorias, cada una enla
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa290ODJmYjVmd3prMnRrN2NkNXBwcmdlZncyZXB2d3dvNTVmejltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gk3ut9Urw4NkRVaXHb/giphy.gif" width = 80px>  </picture> Vulnerabilidades Cliente - Servidor - Sin categoria <br><br>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25idTR3d3RmM3BrM2phODBvMjl3Z3U0eTJ1dGp2eXVpODBvZ2dxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DOgcO0CuLgJchAvfDI/giphy.gif" width = 80px>  </picture> Vulnerabilidades Cliente - Servidor - Sin categoria <br><br>
 
 ## Cliente
 
@@ -123,7 +123,7 @@ Más de 60 vulnerabilidades de cliente, servidor y sin categorias, cada una enla
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Analisis de archivos .js son interesante miralo con detalle.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Arsenal de vulnerabilidades web cliente/serividor/sin cateorias cada repo contiene material relacionado.”
 <br>
 
 
