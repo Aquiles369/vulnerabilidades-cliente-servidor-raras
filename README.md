@@ -8,8 +8,9 @@
  <img  height="470rem" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUwYXR0ZmF6M2xucHJqbGdjcWh6aXZ0aWgyeDNyN2xjajduam1iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WgvhzZcy96KAAgAd44/giphy.gif"/>
 </p>
 
-
-<picture> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUwYXR0ZmF6M2xucHJqbGdjcWh6aXZ0aWgyeDNyN2xjajduam1iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WgvhzZcy96KAAgAd44/giphy.gif">  </picture>
+<br>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+<br>
 
  ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjZzdmcjBsOWt5d3o4MmJsM3FsMHNuNzAyODFzMnU0emM5cjZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnB8S9TNiUGW3eI4AT/giphy.gif" width = 75px>  </picture> Analisis de archivos .js
 
