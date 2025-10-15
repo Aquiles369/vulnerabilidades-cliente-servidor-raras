@@ -16,8 +16,13 @@
 <br>
 
  **Análisis de archivos .js. Proceso enfocado en revisar, mapear y comprender el código JavaScript de una aplicación para identificar vectores de ataque potenciales. Incluye la detección de funciones sensibles, endpoints ocultos, parámetros interesantes, lógica de validación, fugas de datos y posibles superficies para XSS, DOM Clobbering, prototipo pollution o bypass de seguridad.<br><br>
-Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante la fase de recon y explotación, revelando rutas y comportamientos que no están expuestos directamente en la interfaz de la aplicación.** 
+Objetivo: convertir cada archivo .js en una fuente de inteligencia útil durante la fase de recon y explotación, revelando rutas y comportamientos que no están expuestos directamente en la interfaz de la aplicación,<a href="https://www.youtube.com/watch?v=_xKHM4iSx6Y" target="_blank" rel="noopener">demo en mi canal de Youtube</a>.** 
 <br><br> 
+
+<p align="center">
+ <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/metodos_http_y_header_demo_1.gif"/>
+</p>
+
 
 
 <br>
@@ -129,11 +134,6 @@ Este repositorio reúne y organiza todo lo que un cazador de vulnerabilidades ne
 • <a href="https://attack.mitre.org/" target="_blank" rel="noopener">attack.mitre</a>
 
 • <a href="https://attack.mitre.org/" target="_blank" rel="noopener">attack.mitre</a><br><br>
-
-
-<p align="center">
- <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/metodos_http_y_header_demo_1.gif"/>
-</p>
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
