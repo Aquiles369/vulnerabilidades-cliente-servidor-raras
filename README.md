@@ -68,7 +68,7 @@ Este repositorio reúne y organiza todo lo que un cazador de vulnerabilidades ne
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa290ODJmYjVmd3prMnRrN2NkNXBwcmdlZncyZXB2d3dvNTVmejltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gk3ut9Urw4NkRVaXHb/giphy.gif" width = 80px>  </picture> Vulnerabilidades Cliente/Servidor/Sin categoria <br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa290ODJmYjVmd3prMnRrN2NkNXBwcmdlZncyZXB2d3dvNTVmejltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gk3ut9Urw4NkRVaXHb/giphy.gif" width = 80px>  </picture> Vulnerabilidades Cliente - Servidor - Sin categoria <br><br>
 
 ## Cliente
 
@@ -111,7 +111,7 @@ Este repositorio reúne y organiza todo lo que un cazador de vulnerabilidades ne
 
 
 
-Sin Caterogias<br>
+## Sin Caterogias<br>
 
 
 • <a href="https://wiki.hackerium.io/web-pentest-checklists/owasp-based" target="_blank" rel="noopener">OWASP</a>
