@@ -148,7 +148,7 @@ Más de 60 vulnerabilidades de cliente, servidor y raras, cada una enlazada a su
 
 
 
-## Sin Caterogias<br>
+## Raras<br>
 
 
 • <a href="https://wiki.hackerium.io/web-pentest-checklists/owasp-based" target="_blank" rel="noopener">Business Logic Errors</a>
