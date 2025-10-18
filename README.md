@@ -77,8 +77,6 @@ Más de 60 vulnerabilidades de cliente, servidor y sin categorias, cada una enla
 
 • <a href="https://www.youtube.com/watch?v=FqnSAa2KmBI" target="_blank" rel="noopener">WEBSOCKETS</a>
 
-• <a href="https://github.com/jhaddix/tbhm" target="_blank" rel="noopener">Quick-tricks</a>
-
 • <a href="https://www.youtube.com/watch?v=FqnSAa2KmBI" target="_blank" rel="noopener">Client-Side Template</a>
 
 • <a href="https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/index.html" target="_blank" rel="noopener">CSRF</a><br><br>
