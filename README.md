@@ -183,7 +183,7 @@ Más de 60 vulnerabilidades de cliente, servidor y raras, cada una enlazada a su
 
 • <a href="https://attack.mitre.org/" target="_blank" rel="noopener">Crawl-fuzz</a>
 
-• <a href="https://attack.mitre.org/" target="_blank" rel="noopener">.js Análisis</a>
+• <a href="https://github.com/Aquiles369/js_analisis" target="_blank" rel="noopener">.js Análisis</a>
 
 • <a href="https://github.com/jhaddix/tbhm" target="_blank" rel="noopener">Reverse Tabnabbing</a>
 
